@@ -10,7 +10,7 @@ namespace WebFinal.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "Home Pagsjknksse";
+            ViewBag.Title = "Home Pagsjknkkjnjkkn,sse";
 
             return View();
         }
