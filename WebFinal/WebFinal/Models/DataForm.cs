@@ -12,6 +12,8 @@ namespace WebFinal.Models
         public string Email { get; set; }
         public int Duration { get; set; }
         public int City { get; set; }
+
+        public string NameC { get; set; }
         public City NameCity { get; set; }
 
     }
